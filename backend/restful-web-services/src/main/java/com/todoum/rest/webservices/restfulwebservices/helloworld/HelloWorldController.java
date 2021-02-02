@@ -1,4 +1,4 @@
-package com.todoum.rest.webservices.restfulwebservices;
+package com.todoum.rest.webservices.restfulwebservices.helloworld;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.CrossOrigin;
