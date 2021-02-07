@@ -1,4 +1,4 @@
-package com.todoum.rest.webservices.restfulwebservices.basic.auth;
+package com.todoum.rest.basic.auth;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.CrossOrigin;
